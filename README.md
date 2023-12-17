@@ -18,6 +18,7 @@ Flexibility:
 File names are hard-coded. Making these configurable or allowing users to input file names would enhance flexibility.
 
 Challenging Pieces and Solutions:
+
 Managing user input and ensuring the program remains robust against unexpected inputs required careful validation and error handling.
 Implementing file reading and writing logic, especially error handling during file operations, was challenging.
 Tools/Resources in Support Network:
@@ -26,6 +27,7 @@ Utilized C++ standard libraries for file handling, map data structure, and user 
 Online resources, were valuable for troubleshooting and learning.
 
 Transferable Skills:
+
 File Handling:
 Enhanced skills in reading from and writing to files.
 Data Structures:
@@ -34,6 +36,7 @@ User Interaction:
 Gained experience in creating a user-friendly menu system.
 
 Maintainability, Readability, and Adaptability:
+
 Descriptive variable and function names enhance code readability.
 Code is organized into functions, improving maintainability.
 Adequate comments clarify code functionality for future developers.
