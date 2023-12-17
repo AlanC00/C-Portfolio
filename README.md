@@ -21,8 +21,6 @@ Challenging Pieces and Solutions:
 
 Managing user input and ensuring the program remains robust against unexpected inputs required careful validation and error handling.
 Implementing file reading and writing logic, especially error handling during file operations, was challenging.
-Tools/Resources in Support Network:
-
 Utilized C++ standard libraries for file handling, map data structure, and user input.
 Online resources, were valuable for troubleshooting and learning.
 
